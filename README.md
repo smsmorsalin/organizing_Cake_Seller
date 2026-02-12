@@ -50,6 +50,15 @@ pip install notebook
 ## 💻 Technologies Used
 * **Python**: The core programming language.
 * **Jupyter Notebook**: For interactive coding and documentation.
+* 
+## 🙌 Acknowledgements
+
+Special thanks to my friends for their help and collaboration on this problem:
+
+* [**@omaryeasinkhan**](https://github.com/omaryeasinkhan)
+* [**@sonjoysd**](https://github.com/sonjoysd)
+* [**@Mujahid-Maruf**](https://github.com/Mujahid-Maruf)
+* [**@abdusshafial**](https://github.com/abdusshafial)
 
 ## 👤 Author
 
