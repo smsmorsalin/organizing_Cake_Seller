@@ -50,15 +50,40 @@ pip install notebook
 ## 💻 Technologies Used
 * **Python**: The core programming language.
 * **Jupyter Notebook**: For interactive coding and documentation.
-* 
+  
+
 ## 🙌 Acknowledgements
 
-Special thanks to my friends for their help and collaboration on this problem:
+Big thanks to my friends who helped me in this project:
 
-* [**@omaryeasinkhan**](https://github.com/omaryeasinkhan)
-* [**@sonjoysd**](https://github.com/sonjoysd)
-* [**@Mujahid-Maruf**](https://github.com/Mujahid-Maruf)
-* [**@abdusshafial**](https://github.com/abdusshafial)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/omaryeasinkhan">
+        <img src="https://github.com/omaryeasinkhan.png" width="100px;" alt=""/><br />
+        <sub><b>omaryeasinkhan</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sonjoysd">
+        <img src="https://github.com/sonjoysd.png" width="100px;" alt=""/><br />
+        <sub><b>sonjoysd</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Mujahid-Maruf">
+        <img src="https://github.com/Mujahid-Maruf.png" width="100px;" alt=""/><br />
+        <sub><b>Mujahid-Maruf</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/abdusshafial">
+        <img src="https://github.com/abdusshafial.png" width="100px;" alt=""/><br />
+        <sub><b>abdusshafial</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 👤 Author
 
@@ -67,3 +92,5 @@ Special thanks to my friends for their help and collaboration on this problem:
 ---
 
 *Thanks for checking out my code! Feel free to star ⭐ the repository if you find it useful.*
+
+
